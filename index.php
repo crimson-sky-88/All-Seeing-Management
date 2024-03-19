@@ -14,11 +14,17 @@
 <body>
     <header>
         <nav>
-            
+            <h1>Placeholder for logo</h1>
+            <ul>
+                <li>DASHBOARD</li>
+                <li>PROFILE</li>
+                <li>SETTINGS</li>
+                <li>ABOUT</li>
+            </ul>
         </nav>
     </header>
     <main>
-
+        
     </main>
     <footer>
 
